@@ -7,6 +7,12 @@ The website was built using Django Python and runs on AWS LightSail, utilizing S
 
 Overall, the project represents a significant leap forward in agricultural automation, enabling farmers to streamline their operations and optimize crop yield with minimal human intervention.
 
+<img width="60%" height="60%" src="https://github.com/tgarg10/Automating-Agriculture/assets/129296453/b04d25b8-3abf-4cf4-8c13-e4bc09100fe1">
+
+<img width="60%" height="60%" src="https://github.com/tgarg10/Automating-Agriculture/assets/129296453/ee90302c-8bc8-4bb4-bd92-70b23d79bdc7">
+
+Check it out: https://www.youtube.com/embed/rC0FzM2XtBs!
+
 ## Challenges I ran into
 Integrating the hardware of the robots with the Arduino software and Python posed a significant challenge that required a high level of technical skill and expertise. To achieve this, I had to leverage cutting-edge technologies, including IoT and S3 Buckets, to forecast camera footage and ensure seamless data transfer between the robots and software.
 
